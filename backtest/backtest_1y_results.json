@@ -1,0 +1,107 @@
+{
+  "Konservatif (pos=%8)": {
+    "final_capital": 106.2099,
+    "total_return_pct": 6.21,
+    "total_trades": 268,
+    "long_trades": 112,
+    "short_trades": 156,
+    "win_rate": 30.2,
+    "max_drawdown_pct": 17.63,
+    "profit_factor": 1.15,
+    "sharpe": 0.53,
+    "avg_win_pct": 6.53,
+    "avg_loss_pct": -2.11,
+    "top_symbols": [
+      [
+        "ETHUSDT",
+        68
+      ],
+      [
+        "BTCUSDT",
+        60
+      ],
+      [
+        "BNBUSDT",
+        49
+      ],
+      [
+        "SOLUSDT",
+        46
+      ],
+      [
+        "XRPUSDT",
+        45
+      ]
+    ]
+  },
+  "Standart (pos=%12)": {
+    "final_capital": 109.1685,
+    "total_return_pct": 9.17,
+    "total_trades": 268,
+    "long_trades": 112,
+    "short_trades": 156,
+    "win_rate": 30.2,
+    "max_drawdown_pct": 25.6,
+    "profit_factor": 1.15,
+    "sharpe": 0.78,
+    "avg_win_pct": 6.53,
+    "avg_loss_pct": -2.11,
+    "top_symbols": [
+      [
+        "ETHUSDT",
+        68
+      ],
+      [
+        "BTCUSDT",
+        60
+      ],
+      [
+        "BNBUSDT",
+        49
+      ],
+      [
+        "SOLUSDT",
+        46
+      ],
+      [
+        "XRPUSDT",
+        45
+      ]
+    ]
+  },
+  "Agresif (pos=%20)": {
+    "final_capital": 114.8279,
+    "total_return_pct": 14.83,
+    "total_trades": 268,
+    "long_trades": 112,
+    "short_trades": 156,
+    "win_rate": 30.2,
+    "max_drawdown_pct": 39.97,
+    "profit_factor": 1.14,
+    "sharpe": 1.3,
+    "avg_win_pct": 6.53,
+    "avg_loss_pct": -2.11,
+    "top_symbols": [
+      [
+        "ETHUSDT",
+        68
+      ],
+      [
+        "BTCUSDT",
+        60
+      ],
+      [
+        "BNBUSDT",
+        49
+      ],
+      [
+        "SOLUSDT",
+        46
+      ],
+      [
+        "XRPUSDT",
+        45
+      ]
+    ]
+  }
+}
