@@ -1,0 +1,119 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T00:00:01.664609Z",
+  "summary": {
+    "total_trades_alltime": 0,
+    "win_rate_alltime_pct": 0,
+    "recent_24h_trades": 0,
+    "equity": {}
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-05-04 23:10:17,071 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:11:17,400 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:12:17,730 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:13:18,058 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:14:18,400 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:15:18,739 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:16:19,069 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:17:19,399 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:18:19,727 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:19:20,055 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:20:20,381 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:21:20,706 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:22:21,033 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:23:21,359 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:24:21,686 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:25:22,014 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:26:22,341 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:27:22,670 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:28:23,014 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:29:23,342 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:30:23,677 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:31:24,018 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:32:24,355 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:33:24,684 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:34:25,014 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:35:25,341 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:36:25,676 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:37:26,003 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:38:26,331 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:39:26,660 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:40:26,987 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:41:27,316 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:42:27,647 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:43:27,975 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:44:28,305 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:45:28,634 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:46:28,965 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:47:29,295 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:48:29,789 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:49:30,113 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:50:30,439 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:51:30,768 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:52:31,094 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:53:31,422 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:54:31,750 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:55:32,076 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:56:32,406 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:57:32,734 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:58:33,058 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n2026-05-04 23:59:33,385 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — sinyal bekleniyor, yeni pozisyon acilmiyor.\n"
+}
