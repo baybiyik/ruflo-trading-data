@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T00:00:01.672056Z",
+  "summary": {
+    "total_trades_alltime": 0,
+    "win_rate_alltime_pct": 0,
+    "recent_24h_trades": 0,
+    "equity": {}
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-06-11 23:09:57,068 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:10:57,224 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:11:57,379 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:12:57,539 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:13:57,694 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:14:57,855 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:15:58,009 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:16:58,162 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:17:58,319 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:18:58,473 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:19:58,627 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:20:58,780 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:21:58,937 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:22:59,091 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:23:59,248 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:24:59,404 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:25:59,573 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:26:59,749 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:27:59,903 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:29:00,073 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:30:00,228 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:31:00,377 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:32:00,535 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:33:00,693 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:34:00,857 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:35:01,020 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:36:01,189 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:37:01,351 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:38:01,515 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:39:01,679 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:40:01,849 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:41:02,025 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:42:02,208 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:43:02,369 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:44:02,534 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:45:02,992 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:46:03,156 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:47:03,313 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:48:03,472 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:49:03,637 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:50:03,803 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:51:03,960 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:52:04,122 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:53:04,286 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:54:04,454 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:55:04,686 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:56:04,845 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:57:05,007 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:58:05,164 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n2026-06-11 23:59:05,329 [WARNING] Günlük kayıp limiti: -9.91% ≤ -5.0% — bugün için işlem durdu\n"
+}
