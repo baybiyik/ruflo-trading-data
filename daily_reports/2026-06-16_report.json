@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T00:00:02.213282Z",
+  "summary": {
+    "total_trades_alltime": 0,
+    "win_rate_alltime_pct": 0,
+    "recent_24h_trades": 0,
+    "equity": {}
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-06-15 23:47:44,409 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567264255&signature=468b6a3d157ebb517e6180a21253a935e4e6da31c0e9f7b32a9bcde74fafdd3b\n2026-06-15 23:47:46,565 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:47:46,867 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567266712&signature=f4124b322883bb7b817f487de45fd1132a939e6583f5bffe5c9f0711181c6a16\n2026-06-15 23:47:49,020 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:47:52,056 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.86. Pozisyon: BTCUSDT=66290.0000(+5.04%), SOLUSDT=73.9500(+10.23%)\n2026-06-15 23:48:52,357 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567332203&signature=e99f115bf2078797a7b09fac6fb4aa64c41ff583dcff50c2a27168fa6369c1d1\n2026-06-15 23:48:54,515 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:48:54,816 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567334662&signature=faa2967af91dd92703913bdec952845553fd373e620e4fbb243eee898d6236e0\n2026-06-15 23:48:56,971 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:49:58,641 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567398484&signature=5025fe18b1af1a5d1039f68e5802ae654e3ef6ec64191c23c73d9cf6562f7ff6\n2026-06-15 23:50:00,800 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:50:01,102 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567400950&signature=8a22e7fbf8b25f64c7939121bc6c5a4a9b7c6793c6cd6935f71dc0302524d4e0\n2026-06-15 23:50:03,253 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:51:04,925 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567464771&signature=0f780cfa97b7f2346292b081db18d62e4b20613dc5a85194fb820ec0a3170d21\n2026-06-15 23:51:07,079 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:51:07,384 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567467230&signature=73fd7126a7768af5623f629a645c86c710b9482a763b9e979dcbdacf3157400a\n2026-06-15 23:51:09,541 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:52:11,226 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567531070&signature=a8e8f23a1b73244a19ee8a83c562d16670d781f795cd4089b66d16d49dfeeb24\n2026-06-15 23:52:13,380 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:52:13,689 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567533533&signature=af613726207dcf99b467ee27cb773efbce418044bc48f0b3d5ecfea0c8c024f9\n2026-06-15 23:52:15,848 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:53:17,522 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567597369&signature=e80dcf28ae9cafb0d37fb72b7aa110333f1e7cb099892c33f6d7f1c6659449c3\n2026-06-15 23:53:19,671 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:53:19,966 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567599818&signature=8586edbd5c848d8738485e9a36edb0941e74c1771747ed3a2b31df4b3c00b748\n2026-06-15 23:53:22,122 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:54:24,994 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $103.88\n2026-06-15 23:54:25,300 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567665148&signature=e0dee44e754cd27eb1fc1c59bdc1813c0062818edf5956cc4e07456b6ad0aedc\n2026-06-15 23:54:27,459 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:54:27,761 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567667609&signature=57e92915a1fff783f758878c0d8bf1c60f0540b41609abf89d32b7011bdafb63\n2026-06-15 23:54:29,919 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:55:31,572 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567731423&signature=6d02e09452a67a57ed0ed271c9a827f69fb335fd3236690d6da609855f58a6a4\n2026-06-15 23:55:33,725 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:55:34,028 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567733874&signature=06d77bf56a711aa1d145ee72d795d33acbb6e9c6671b28cef17d34756995e2c8\n2026-06-15 23:55:36,181 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:56:37,855 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567797705&signature=70eef974a7caea21a17e6cbc0939ddfea686ff21a2b0ebb8235b78b376850027\n2026-06-15 23:56:40,014 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:56:40,318 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567800168&signature=7ce7b617e3c7529025a974998dd2b0ed2f6cb518e7e8badab8afc0aa0c016aa4\n2026-06-15 23:56:42,470 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:57:44,128 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567863973&signature=6c12d427ad2f582465df4692c8c897373d4841b5d1bb989c4c20123536f61ed8\n2026-06-15 23:57:46,277 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:57:46,577 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567866423&signature=38fc71ed325cffeea37b6cceb392cae91395a6506f6fc623beae17441cc73932\n2026-06-15 23:57:48,737 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:58:50,405 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567930251&signature=5b8f659847e121af22332c0a4e36a646ed4d57f0dc7e46e06a8eacc8fd320074\n2026-06-15 23:58:52,555 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:58:52,857 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781567932706&signature=5ea0bf8fc6ed749e7d5c850c9acd0f4ce789915018fca77fe6307dddf535f00e\n2026-06-15 23:58:55,007 [INFO] [SOLUSDT] Exception sonrası bakiye=0.135864 — satış başarısız, pozisyon açık kalıyor\n2026-06-15 23:58:58,060 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.87. Pozisyon: BTCUSDT=66328.7300(+5.10%), SOLUSDT=73.9900(+10.28%)\n2026-06-15 23:59:58,367 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1781567998215&signature=7a793a1b6751a0ca998e1e663baebb8a58618cfcfd91333b6f2f5d5a8dfcea84\n2026-06-16 00:00:00,566 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-16 00:00:01,020 [ERROR] [SOLUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=SOLUSDT&side=SELL&type=MARKET&quantity=0.135864&timestamp=1781568000866&signature=9d339310cb5cffaafd2bad848b25bd105c963016320e55bc4c1434cb63c60bdb\n"
+}
