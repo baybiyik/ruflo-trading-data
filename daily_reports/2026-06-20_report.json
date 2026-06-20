@@ -1,0 +1,119 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T00:00:01.878894Z",
+  "summary": {
+    "total_trades_alltime": 0,
+    "win_rate_alltime_pct": 0,
+    "recent_24h_trades": 0,
+    "equity": {}
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:45:28,197 [INFO] [SOLUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:45:28,198 [INFO] [BNBUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:45:31,479 [INFO] [BNBUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] BNBUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:45:35,660 [INFO] [BNBUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:45:35,661 [INFO] [XRPUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:45:38,903 [INFO] [XRPUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] XRPUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:45:42,863 [INFO] [XRPUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:45:44,463 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $102.77\n2026-06-19 23:47:52,028 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.76. Pozisyon: BTCUSDT=63300.0100(+0.30%), SOLUSDT=69.4100(+3.46%)\n\n📋 config.yaml → dry_run: false (CANLI İŞLEM)\n2026-06-19 23:55:03,556 [INFO] Mevcut pozisyonlar yüklendi: ['BTCUSDT', 'SOLUSDT']\n2026-06-19 23:55:03,557 [INFO] ============================================================\n2026-06-19 23:55:03,557 [INFO]   ML Live Trader — CANLI\n2026-06-19 23:55:03,557 [INFO]   Semboller: BTCUSDT, ETHUSDT, SOLUSDT, BNBUSDT, XRPUSDT\n2026-06-19 23:55:03,557 [INFO]   CTHR=0.45 SL_ATR=2.5 RR=3.5 POS=10% DDL=-5.0%\n2026-06-19 23:55:03,557 [INFO] ============================================================\n2026-06-19 23:55:03,557 [INFO] Bot çalışıyor — her 60s kontrol\n2026-06-19 23:55:03,557 [INFO] [BTCUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:55:06,714 [INFO] [BTCUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] BTCUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:55:13,189 [INFO] [BTCUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:55:13,190 [INFO] [ETHUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:55:16,315 [INFO] [ETHUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] ETHUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:55:20,350 [INFO] [ETHUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:55:20,350 [INFO] [SOLUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:55:23,868 [INFO] [SOLUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] SOLUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:55:27,813 [INFO] [SOLUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:55:27,814 [INFO] [BNBUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:55:31,501 [INFO] [BNBUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] BNBUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:55:35,468 [INFO] [BNBUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:55:35,469 [INFO] [XRPUSDT] Geçmiş veri indiriliyor...\n2026-06-19 23:55:38,706 [INFO] [XRPUSDT] Model eğitiliyor (10,080 bar, son 90g)...\n    [funding] XRPUSDT funding rate ilk indir...\n    [funding] 315 kayit indirildi, cache kaydedildi.\n2026-06-19 23:55:42,641 [INFO] [XRPUSDT] Model hazır (8,641 örnek)\n2026-06-19 23:55:44,231 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $102.78\n2026-06-19 23:58:53,847 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.85. Pozisyon: BTCUSDT=63571.7300(+0.73%), SOLUSDT=69.7500(+3.96%)\n"
+}
