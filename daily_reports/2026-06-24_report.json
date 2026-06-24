@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T00:00:01.695136Z",
+  "summary": {
+    "total_trades_alltime": 0,
+    "win_rate_alltime_pct": 0,
+    "recent_24h_trades": 0,
+    "open_positions": 2,
+    "equity": {
+      "starting_capital": 100.0,
+      "realized_pnl": 0,
+      "capital_after_realized": 100.0,
+      "closed_trade_count": 0
+    }
+  },
+  "positions": {
+    "BTCUSDT": {
+      "entry": 63110.0,
+      "qty": 0.00016,
+      "sl": 62173.65091,
+      "tp": 64982.69819,
+      "opened_at": "2026-06-11T11:38:03.480000+00:00",
+      "adopted": true,
+      "adopted_at": "2026-06-12T11:07:12.769021+00:00"
+    },
+    "SOLUSDT": {
+      "entry": 67.09,
+      "qty": 0.135864,
+      "sl": 68.753,
+      "tp": 69.92247,
+      "opened_at": "2026-06-12T02:10:58.388000+00:00",
+      "adopted": true,
+      "adopted_at": "2026-06-12T11:07:12.945854+00:00",
+      "peak": 69.8
+    }
+  },
+  "bot_state": {
+    "consecutive_losses": 0,
+    "consecutive_wins": 0,
+    "day_start_portfolio_usd": 103.2197840376,
+    "current_day": "2026-06-23",
+    "daily_limit_warned_date": null,
+    "last_heartbeat_ts": 1782258965.5982068
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-06-23 21:02:09,501 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.57. Pozisyon: BTCUSDT=62488.0100(-0.99%), SOLUSDT=69.0200(+2.88%)\n2026-06-23 21:06:18,141 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.60. Pozisyon: BTCUSDT=62584.1400(-0.83%), SOLUSDT=69.1400(+3.06%)\n2026-06-23 21:10:26,739 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.59. Pozisyon: BTCUSDT=62528.0100(-0.92%), SOLUSDT=69.1800(+3.12%)\n2026-06-23 21:14:35,078 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.58. Pozisyon: BTCUSDT=62506.7600(-0.96%), SOLUSDT=69.1200(+3.03%)\n2026-06-23 21:18:43,481 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.58. Pozisyon: BTCUSDT=62480.7500(-1.00%), SOLUSDT=69.0900(+2.98%)\n2026-06-23 21:22:51,789 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.59. Pozisyon: BTCUSDT=62505.6100(-0.96%), SOLUSDT=69.1800(+3.12%)\n2026-06-23 21:27:00,121 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.60. Pozisyon: BTCUSDT=62565.4500(-0.86%), SOLUSDT=69.1800(+3.12%)\n2026-06-23 21:31:09,053 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62569.0700(-0.86%), SOLUSDT=69.2900(+3.28%)\n2026-06-23 21:34:14,287 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $102.61\n2026-06-23 21:35:18,977 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.61. Pozisyon: BTCUSDT=62561.0600(-0.87%), SOLUSDT=69.2600(+3.23%)\n2026-06-23 21:39:27,634 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.61. Pozisyon: BTCUSDT=62573.7400(-0.85%), SOLUSDT=69.2500(+3.22%)\n2026-06-23 21:43:35,959 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62615.8200(-0.78%), SOLUSDT=69.2900(+3.28%)\n2026-06-23 21:47:44,361 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.63. Pozisyon: BTCUSDT=62650.0000(-0.73%), SOLUSDT=69.2800(+3.26%)\n2026-06-23 21:51:52,681 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62653.4700(-0.72%), SOLUSDT=69.2400(+3.20%)\n2026-06-23 21:56:01,007 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62599.0100(-0.81%), SOLUSDT=69.2700(+3.25%)\n2026-06-23 22:00:09,294 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62588.5400(-0.83%), SOLUSDT=69.2900(+3.28%)\n2026-06-23 22:04:17,584 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62662.0100(-0.71%), SOLUSDT=69.3600(+3.38%)\n2026-06-23 22:08:25,885 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.67. Pozisyon: BTCUSDT=62710.0000(-0.63%), SOLUSDT=69.4900(+3.58%)\n2026-06-23 22:12:34,481 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.69. Pozisyon: BTCUSDT=62738.0100(-0.59%), SOLUSDT=69.6400(+3.80%)\n2026-06-23 22:14:36,488 [INFO] [SOLUSDT] Trailing SL: 68.62495 → 68.63480 (peak=69.68000, korunan kar=+2.30%)\n2026-06-23 22:16:39,820 [INFO] [SOLUSDT] Trailing SL: 68.63480 → 68.73330 (peak=69.78000, korunan kar=+2.45%)\n2026-06-23 22:16:42,845 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.72. Pozisyon: BTCUSDT=62776.9700(-0.53%), SOLUSDT=69.7900(+4.02%)\n2026-06-23 22:17:43,147 [INFO] [SOLUSDT] Trailing SL: 68.73330 → 68.74315 (peak=69.79000, korunan kar=+2.46%)\n2026-06-23 22:18:44,818 [INFO] [SOLUSDT] Trailing SL: 68.74315 → 68.75300 (peak=69.80000, korunan kar=+2.48%)\n2026-06-23 22:20:51,184 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.69. Pozisyon: BTCUSDT=62710.3400(-0.63%), SOLUSDT=69.6300(+3.79%)\n2026-06-23 22:24:59,516 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62588.0100(-0.83%), SOLUSDT=69.4200(+3.47%)\n2026-06-23 22:29:07,844 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62616.0000(-0.78%), SOLUSDT=69.4000(+3.44%)\n2026-06-23 22:33:16,150 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.66. Pozisyon: BTCUSDT=62628.0000(-0.76%), SOLUSDT=69.5500(+3.67%)\n2026-06-23 22:34:17,973 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $102.66\n2026-06-23 22:37:26,068 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.63. Pozisyon: BTCUSDT=62541.8200(-0.90%), SOLUSDT=69.3900(+3.43%)\n2026-06-23 22:41:34,372 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.66. Pozisyon: BTCUSDT=62582.0000(-0.84%), SOLUSDT=69.6000(+3.74%)\n2026-06-23 22:45:42,729 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62551.4400(-0.89%), SOLUSDT=69.4700(+3.55%)\n2026-06-23 22:49:51,303 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62548.0000(-0.89%), SOLUSDT=69.4900(+3.58%)\n2026-06-23 22:53:59,918 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62544.2800(-0.90%), SOLUSDT=69.4700(+3.55%)\n2026-06-23 22:58:08,404 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.66. Pozisyon: BTCUSDT=62611.1000(-0.79%), SOLUSDT=69.5800(+3.71%)\n2026-06-23 23:02:16,709 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.65. Pozisyon: BTCUSDT=62587.2700(-0.83%), SOLUSDT=69.5400(+3.65%)\n2026-06-23 23:06:24,993 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.61. Pozisyon: BTCUSDT=62512.0000(-0.95%), SOLUSDT=69.3300(+3.34%)\n2026-06-23 23:10:33,676 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62537.9900(-0.91%), SOLUSDT=69.3800(+3.41%)\n2026-06-23 23:14:41,969 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.62. Pozisyon: BTCUSDT=62527.9700(-0.92%), SOLUSDT=69.3700(+3.40%)\n2026-06-23 23:18:50,297 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62587.2600(-0.83%), SOLUSDT=69.4400(+3.50%)\n2026-06-23 23:22:58,587 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.65. Pozisyon: BTCUSDT=62611.4700(-0.79%), SOLUSDT=69.5100(+3.61%)\n2026-06-23 23:27:06,889 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.67. Pozisyon: BTCUSDT=62676.7100(-0.69%), SOLUSDT=69.5300(+3.64%)\n2026-06-23 23:31:15,326 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.66. Pozisyon: BTCUSDT=62658.0100(-0.72%), SOLUSDT=69.5300(+3.64%)\n2026-06-23 23:34:20,465 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $102.67\n2026-06-23 23:35:25,157 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.67. Pozisyon: BTCUSDT=62666.6500(-0.70%), SOLUSDT=69.5400(+3.65%)\n2026-06-23 23:39:33,457 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.65. Pozisyon: BTCUSDT=62626.2700(-0.77%), SOLUSDT=69.4400(+3.50%)\n2026-06-23 23:43:42,211 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.64. Pozisyon: BTCUSDT=62612.0100(-0.79%), SOLUSDT=69.4200(+3.47%)\n2026-06-23 23:47:50,542 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.70. Pozisyon: BTCUSDT=62730.8200(-0.60%), SOLUSDT=69.6700(+3.85%)\n2026-06-23 23:51:58,926 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.69. Pozisyon: BTCUSDT=62720.0100(-0.62%), SOLUSDT=69.6500(+3.82%)\n2026-06-23 23:56:07,260 [INFO] [HEARTBEAT] Bot aktif. Portföy $102.71. Pozisyon: BTCUSDT=62742.0100(-0.58%), SOLUSDT=69.7500(+3.96%)\n"
+}
