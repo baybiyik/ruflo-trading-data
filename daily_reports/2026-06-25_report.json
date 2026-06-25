@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T00:00:01.545186Z",
+  "summary": {
+    "total_trades_alltime": 1,
+    "win_rate_alltime_pct": 100.0,
+    "recent_24h_trades": 1,
+    "open_positions": 1,
+    "equity": {
+      "starting_capital": 100.0,
+      "realized_pnl": 0.3746,
+      "capital_after_realized": 100.3746,
+      "closed_trade_count": 1
+    }
+  },
+  "positions": {
+    "BTCUSDT": {
+      "entry": 63110.0,
+      "qty": 0.00016,
+      "sl": 62212.944749999995,
+      "tp": 64982.69819,
+      "opened_at": "2026-06-11T11:38:03.480000+00:00",
+      "adopted": true,
+      "adopted_at": "2026-06-12T11:07:12.769021+00:00",
+      "peak": 63160.35
+    }
+  },
+  "bot_state": {
+    "consecutive_losses": 0,
+    "consecutive_wins": 1,
+    "day_start_portfolio_usd": 102.69628373199998,
+    "current_day": "2026-06-24",
+    "daily_limit_warned_date": null,
+    "last_heartbeat_ts": 1782278540.0904415
+  },
+  "recent_trades": [
+    {
+      "timestamp": "2026-06-24T05:25:10.004659+00:00",
+      "symbol": "SOLUSDT",
+      "status": "closed",
+      "reason": "tp",
+      "entry": 67.09,
+      "exit": 69.94,
+      "qty": 0.135,
+      "pnl": 0.3746,
+      "pnl_pct": 4.25,
+      "opened_at": "2026-06-12T02:10:58.388000+00:00",
+      "mode": "CANLI"
+    }
+  ],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-06-24 23:42:01,992 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:42:03,718 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:43:04,064 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344583888&signature=0cc74cd5627c57e9dbc210ea674fbc51ab3dede9431030bd2dd8584490154e56\n2026-06-24 23:43:06,238 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:43:07,946 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:44:08,293 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344648122&signature=d2b04a426b3e2af6a08afd192dcf599677f43b455e64377fcf1eb125ad0c287d\n2026-06-24 23:44:10,466 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:44:12,173 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:45:12,514 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344712338&signature=248c0bc9b5e042216c2464fd715014547a4d02ac97f3f45caf4a674d45bfc6ce\n2026-06-24 23:45:14,688 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:45:16,395 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:46:16,747 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344776571&signature=4b11e1175d84910127604864dd9bdfa37710e57c97011adb9271249406b68d2f\n2026-06-24 23:46:18,923 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:46:20,640 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:47:20,990 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344840821&signature=0701a694758eff09e4197e5f0be70250314ab91a063f4062507e817f368b8e21\n2026-06-24 23:47:23,166 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:47:24,889 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:48:25,227 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344905059&signature=48c17362c254327520b5bc1ad44a993a97fe60f162d19155d951c7fe913e4794\n2026-06-24 23:48:27,404 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:48:29,114 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:49:29,771 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782344969597&signature=731b413346e5eaf99bdbdf223b80ec46d1bc682335801bbefea48cc0273fc3a8\n2026-06-24 23:49:32,245 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:49:33,970 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:50:34,323 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345034148&signature=a8070a0bcccc45961b7f3cdb17036ae368f7bea3db9fb74c92cedbbbbd6b008a\n2026-06-24 23:50:36,498 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:50:38,235 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:51:38,592 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345098415&signature=99d39fd33131f61f51bf7f01b49da2267b2f78d150e0f65ea8052482e8d0a9c6\n2026-06-24 23:51:40,769 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:51:42,474 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:52:43,121 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345162951&signature=a8517896fea3b270033cb759eb7be0803abb0111587da93ce205fbb4d6227166\n2026-06-24 23:52:45,294 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:52:47,038 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:53:47,386 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345227210&signature=24c66565a3c42a9ad78f541dc279b7ab539bb7a0d252babc0dc09a612e0ab3a8\n2026-06-24 23:53:49,564 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:53:51,293 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:54:51,678 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345291503&signature=a61c045c7285fe5c8ef89a1c6d0b78c4c80977bfc4d0e09d059ddcf56decfe3f\n2026-06-24 23:54:53,859 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:54:55,572 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:55:55,947 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345355778&signature=6a0f321c53daa0618a67de36fe95cc21a60e99e52bdeb0cf51b123c62f1c548c\n2026-06-24 23:55:58,124 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:55:59,832 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:57:00,184 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345420012&signature=aacddcba660e88e6b5602722a3312df119352aee50eb4e004ee0c495c8026955\n2026-06-24 23:57:02,359 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:57:04,382 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:58:04,875 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345484558&signature=098281c7392209e25c371569bfa9844b5d4f5a4e222ac4c918696facccb4b5d1\n2026-06-24 23:58:07,033 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:58:08,607 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-24 23:59:08,925 [ERROR] [BTCUSDT] SELL emri exception: 400 Client Error: Bad Request for url: https://api.binance.com/api/v3/order?symbol=BTCUSDT&side=SELL&type=MARKET&quantity=0.000160&timestamp=1782345548766&signature=42832caa1472a40398a52a295572541cdfe55e16457363066a7f65738c1512bb\n2026-06-24 23:59:11,081 [INFO] [BTCUSDT] Exception sonrası bakiye=0.000160 — satış başarısız, pozisyon açık kalıyor\n2026-06-24 23:59:12,667 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n"
+}
