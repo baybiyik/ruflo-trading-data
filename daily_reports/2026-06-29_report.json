@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T00:00:01.658180Z",
+  "summary": {
+    "total_trades_alltime": 1,
+    "win_rate_alltime_pct": 100.0,
+    "recent_24h_trades": 0,
+    "open_positions": 0,
+    "equity": {
+      "starting_capital": 100.0,
+      "realized_pnl": 0.3746,
+      "capital_after_realized": 100.3746,
+      "closed_trade_count": 1
+    }
+  },
+  "positions": {},
+  "bot_state": {
+    "consecutive_losses": 0,
+    "consecutive_wins": 1,
+    "day_start_portfolio_usd": 102.2852870844,
+    "current_day": "2026-06-28",
+    "daily_limit_warned_date": null,
+    "last_heartbeat_ts": 1782395110.685817
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-06-28 23:11:38,105 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:12:39,801 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:13:41,523 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:14:43,236 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:15:44,932 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:16:46,640 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:17:48,344 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:18:50,055 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:19:51,757 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:20:53,452 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:21:55,154 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:22:56,853 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:23:58,524 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:25:00,243 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:26:01,960 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:27:03,647 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:28:05,357 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:29:07,073 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:30:08,771 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:31:10,463 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:32:12,171 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:33:13,873 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:34:15,573 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:35:17,286 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:36:18,989 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:37:20,995 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:38:22,702 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:39:24,420 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:40:26,123 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:41:27,831 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:42:29,531 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:43:31,230 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:44:32,931 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:45:34,638 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:46:36,333 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:47:38,036 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:48:39,748 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:49:41,451 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:50:43,488 [INFO] [RECONCILE] OK — pozisyon 0/2, portföy $102.25\n2026-06-28 23:50:45,555 [INFO] [GLOBAL] Piyasa yonu: ASAGI (skor=-5/5) | BTC=59770 EMA50=67256 EMA200=74317 RSI=31.2 ADX4H=40.7\n2026-06-28 23:50:45,555 [INFO] [GLOBAL] Sinyaller: EMA50=-1 EMA200=-1 GoldenX=-1 RSI=-1 ADX4H=-1\n2026-06-28 23:50:45,555 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:51:47,252 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:52:48,935 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:53:50,634 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:54:52,362 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:55:54,639 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:56:56,358 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:57:58,084 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n2026-06-28 23:58:59,772 [INFO] [GLOBAL] Piyasa ASAGI yonde — yeni long pozisyon acilmiyor, bekleniyor.\n"
+}
