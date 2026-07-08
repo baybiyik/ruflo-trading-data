@@ -1,0 +1,148 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T00:00:02.222661Z",
+  "summary": {
+    "total_trades_alltime": 6,
+    "win_rate_alltime_pct": 66.7,
+    "recent_24h_trades": 1,
+    "open_positions": 0,
+    "equity": {
+      "starting_capital": 100.0,
+      "realized_pnl": 1.5744,
+      "capital_after_realized": 101.5744,
+      "closed_trade_count": 6
+    }
+  },
+  "positions": {},
+  "bot_state": {
+    "consecutive_losses": 2,
+    "consecutive_wins": 0,
+    "day_start_portfolio_usd": 103.4938470528,
+    "current_day": "2026-07-07",
+    "daily_limit_warned_date": null,
+    "last_heartbeat_ts": 1783009586.6035373
+  },
+  "recent_trades": [
+    {
+      "timestamp": "2026-07-07T05:14:37.007706+00:00",
+      "symbol": "BTCUSDT",
+      "status": "closed",
+      "reason": "sl",
+      "entry": 63332.01,
+      "exit": 62821.99,
+      "qty": 0.00025,
+      "pnl": -0.1449,
+      "pnl_pct": -0.81,
+      "opened_at": "2026-07-07T02:52:44.011406+00:00",
+      "mode": "CANLI"
+    }
+  ],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-07-07 23:51:44,006 [INFO] [XRPUSDT] BEKLE ─ | Güven=37.7% (eşik=45%) | Fiyat=1.11380\n2026-07-07 23:52:46,273 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:52:46,274 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:52:46,833 [INFO] [BTCUSDT] BEKLE ─ | Güven=44.9% (eşik=45%) | Fiyat=63437.65000\n2026-07-07 23:52:47,209 [INFO] [ETHUSDT] BEKLE ─ | Güven=40.3% (eşik=45%) | Fiyat=1772.39000\n2026-07-07 23:52:47,758 [INFO] [SOLUSDT] BEKLE ─ | Güven=36.2% (eşik=45%) | Fiyat=80.79000\n2026-07-07 23:52:48,286 [INFO] [BNBUSDT] BEKLE ─ | Güven=54.3% (eşik=45%) | Fiyat=577.65000\n2026-07-07 23:52:48,680 [INFO] [XRPUSDT] BEKLE ─ | Güven=37.7% (eşik=45%) | Fiyat=1.11390\n2026-07-07 23:53:51,360 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:53:51,360 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:53:51,961 [INFO] [BTCUSDT] BEKLE ─ | Güven=46.9% (eşik=45%) | Fiyat=63395.35000\n2026-07-07 23:53:52,878 [INFO] [ETHUSDT] BEKLE ─ | Güven=39.7% (eşik=45%) | Fiyat=1770.89000\n2026-07-07 23:53:53,452 [INFO] [SOLUSDT] BEKLE ─ | Güven=36.1% (eşik=45%) | Fiyat=80.74000\n2026-07-07 23:53:53,997 [INFO] [BNBUSDT] BEKLE ─ | Güven=53.9% (eşik=45%) | Fiyat=577.34000\n2026-07-07 23:53:54,520 [INFO] [XRPUSDT] BEKLE ─ | Güven=36.7% (eşik=45%) | Fiyat=1.11330\n2026-07-07 23:54:56,576 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:54:56,576 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:54:56,963 [INFO] [BTCUSDT] BEKLE ─ | Güven=46.8% (eşik=45%) | Fiyat=63386.01000\n2026-07-07 23:54:57,541 [INFO] [ETHUSDT] BEKLE ─ | Güven=39.3% (eşik=45%) | Fiyat=1770.83000\n2026-07-07 23:54:58,045 [INFO] [SOLUSDT] BEKLE ─ | Güven=36.1% (eşik=45%) | Fiyat=80.76000\n2026-07-07 23:54:58,519 [INFO] [BNBUSDT] BEKLE ─ | Güven=53.0% (eşik=45%) | Fiyat=577.39000\n2026-07-07 23:54:59,125 [INFO] [XRPUSDT] BEKLE ─ | Güven=37.6% (eşik=45%) | Fiyat=1.11320\n2026-07-07 23:56:01,446 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:56:01,446 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:56:01,979 [INFO] [BTCUSDT] BEKLE ─ | Güven=45.9% (eşik=45%) | Fiyat=63360.86000\n2026-07-07 23:56:02,499 [INFO] [ETHUSDT] BEKLE ─ | Güven=39.3% (eşik=45%) | Fiyat=1771.00000\n2026-07-07 23:56:02,947 [INFO] [SOLUSDT] BEKLE ─ | Güven=36.1% (eşik=45%) | Fiyat=80.75000\n2026-07-07 23:56:03,576 [INFO] [BNBUSDT] BEKLE ─ | Güven=53.0% (eşik=45%) | Fiyat=577.31000\n2026-07-07 23:56:04,405 [INFO] [XRPUSDT] BEKLE ─ | Güven=38.0% (eşik=45%) | Fiyat=1.11230\n2026-07-07 23:57:06,471 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:57:06,472 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:57:06,867 [INFO] [BTCUSDT] BEKLE ─ | Güven=44.6% (eşik=45%) | Fiyat=63365.83000\n2026-07-07 23:57:07,415 [INFO] [ETHUSDT] BEKLE ─ | Güven=39.4% (eşik=45%) | Fiyat=1770.68000\n2026-07-07 23:57:07,796 [INFO] [SOLUSDT] BEKLE ─ | Güven=36.1% (eşik=45%) | Fiyat=80.75000\n2026-07-07 23:57:08,410 [INFO] [BNBUSDT] BEKLE ─ | Güven=44.7% (eşik=45%) | Fiyat=577.13000\n2026-07-07 23:57:09,304 [INFO] [XRPUSDT] BEKLE ─ | Güven=38.4% (eşik=45%) | Fiyat=1.11280\n2026-07-07 23:58:11,365 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:58:11,366 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:58:11,983 [INFO] [BTCUSDT] BEKLE ─ | Güven=42.2% (eşik=45%) | Fiyat=63338.01000\n2026-07-07 23:58:12,901 [INFO] [ETHUSDT] BEKLE ─ | Güven=38.1% (eşik=45%) | Fiyat=1769.25000\n2026-07-07 23:58:13,448 [INFO] [SOLUSDT] BEKLE ─ | Güven=35.5% (eşik=45%) | Fiyat=80.64000\n2026-07-07 23:58:13,832 [INFO] [BNBUSDT] BEKLE ─ | Güven=44.4% (eşik=45%) | Fiyat=576.94000\n2026-07-07 23:58:14,219 [INFO] [XRPUSDT] BEKLE ─ | Güven=37.0% (eşik=45%) | Fiyat=1.11180\n2026-07-07 23:59:16,575 [INFO] [GLOBAL] Piyasa YATAY (NEUTRAL) — ML/strateji filtreli trade aramasi devam.\n2026-07-07 23:59:16,575 [INFO] --- Sinyal tarama | Bakiye: $101.47 | Pozisyon: 0/2 | Piyasa: NEUTRAL ---\n2026-07-07 23:59:17,220 [INFO] [BTCUSDT] BEKLE ─ | Güven=39.8% (eşik=45%) | Fiyat=63323.98000\n2026-07-07 23:59:17,753 [INFO] [ETHUSDT] BEKLE ─ | Güven=38.4% (eşik=45%) | Fiyat=1768.56000\n2026-07-07 23:59:18,271 [INFO] [SOLUSDT] BEKLE ─ | Güven=35.5% (eşik=45%) | Fiyat=80.54000\n2026-07-07 23:59:18,799 [INFO] [BNBUSDT] BEKLE ─ | Güven=42.0% (eşik=45%) | Fiyat=576.41000\n2026-07-07 23:59:19,201 [INFO] [XRPUSDT] BEKLE ─ | Güven=38.9% (eşik=45%) | Fiyat=1.11150\n"
+}
