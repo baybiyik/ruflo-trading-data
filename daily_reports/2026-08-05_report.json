@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T00:00:01.822071Z",
+  "summary": {
+    "total_trades_alltime": 18,
+    "win_rate_alltime_pct": 33.3,
+    "recent_24h_trades": 0,
+    "open_positions": 2,
+    "equity": {
+      "starting_capital": 100.0,
+      "realized_pnl": 1.4766,
+      "capital_after_realized": 101.4766,
+      "closed_trade_count": 18
+    }
+  },
+  "positions": {
+    "BTCUSDT": {
+      "entry": 63821.51,
+      "qty": 0.00025,
+      "sl": 63534.804899999996,
+      "tp": 67185.57917000001,
+      "opened_at": "2026-08-03T15:07:12.329236+00:00",
+      "peak": 64502.34
+    },
+    "XRPUSDT": {
+      "entry": 1.0736,
+      "qty": 14.9,
+      "sl": 1.0687888081102974,
+      "tp": 1.0904391716139594,
+      "opened_at": "2026-08-04T06:41:04.602778+00:00",
+      "peak": 1.0818
+    }
+  },
+  "bot_state": {
+    "consecutive_losses": 1,
+    "consecutive_wins": 0,
+    "last_loss_ts": 1785794677.6797278,
+    "day_start_portfolio_usd": 103.03480882999999,
+    "current_day": "2026-08-04",
+    "daily_limit_warned_date": null,
+    "last_heartbeat_ts": 1785887789.4431381
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-08-04 21:01:28,663 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.29. Pozisyon: BTCUSDT=64280.0100(+0.72%), XRPUSDT=1.0777(+0.38%)\n2026-08-04 21:05:38,596 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.30. Pozisyon: BTCUSDT=64309.4100(+0.76%), XRPUSDT=1.0780(+0.41%)\n2026-08-04 21:09:48,986 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.30. Pozisyon: BTCUSDT=64314.0000(+0.77%), XRPUSDT=1.0779(+0.40%)\n2026-08-04 21:13:58,801 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.28. Pozisyon: BTCUSDT=64220.6000(+0.63%), XRPUSDT=1.0776(+0.37%)\n2026-08-04 21:18:08,629 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64233.5900(+0.65%), XRPUSDT=1.0772(+0.34%)\n2026-08-04 21:22:18,767 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.28. Pozisyon: BTCUSDT=64231.1000(+0.64%), XRPUSDT=1.0777(+0.38%)\n2026-08-04 21:26:28,608 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.29. Pozisyon: BTCUSDT=64268.0100(+0.70%), XRPUSDT=1.0780(+0.41%)\n2026-08-04 21:30:38,446 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.28. Pozisyon: BTCUSDT=64250.0100(+0.67%), XRPUSDT=1.0775(+0.36%)\n2026-08-04 21:34:48,328 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.26. Pozisyon: BTCUSDT=64210.9600(+0.61%), XRPUSDT=1.0770(+0.32%)\n2026-08-04 21:38:58,380 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64218.6800(+0.62%), XRPUSDT=1.0772(+0.34%)\n2026-08-04 21:43:08,303 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.28. Pozisyon: BTCUSDT=64266.3500(+0.70%), XRPUSDT=1.0773(+0.34%)\n2026-08-04 21:47:18,175 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.26. Pozisyon: BTCUSDT=64224.0500(+0.63%), XRPUSDT=1.0767(+0.29%)\n2026-08-04 21:51:27,999 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.26. Pozisyon: BTCUSDT=64220.0000(+0.62%), XRPUSDT=1.0768(+0.30%)\n2026-08-04 21:55:38,244 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.24. Pozisyon: BTCUSDT=64180.5100(+0.56%), XRPUSDT=1.0761(+0.23%)\n2026-08-04 21:57:42,776 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $103.25\n2026-08-04 21:59:50,474 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.25. Pozisyon: BTCUSDT=64193.9900(+0.58%), XRPUSDT=1.0764(+0.26%)\n2026-08-04 22:04:00,328 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.21. Pozisyon: BTCUSDT=64165.9900(+0.54%), XRPUSDT=1.0747(+0.10%)\n2026-08-04 22:08:10,171 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.25. Pozisyon: BTCUSDT=64217.9800(+0.62%), XRPUSDT=1.0759(+0.21%)\n2026-08-04 22:12:20,002 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.25. Pozisyon: BTCUSDT=64225.6800(+0.63%), XRPUSDT=1.0760(+0.22%)\n2026-08-04 22:16:29,881 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.25. Pozisyon: BTCUSDT=64229.9900(+0.64%), XRPUSDT=1.0762(+0.24%)\n2026-08-04 22:20:39,728 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64254.8500(+0.68%), XRPUSDT=1.0770(+0.32%)\n2026-08-04 22:24:49,539 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.25. Pozisyon: BTCUSDT=64200.0000(+0.59%), XRPUSDT=1.0762(+0.24%)\n2026-08-04 22:28:59,442 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64262.0000(+0.69%), XRPUSDT=1.0770(+0.32%)\n2026-08-04 22:33:09,270 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64253.0500(+0.68%), XRPUSDT=1.0765(+0.27%)\n2026-08-04 22:37:19,095 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.26. Pozisyon: BTCUSDT=64255.9700(+0.68%), XRPUSDT=1.0761(+0.23%)\n2026-08-04 22:41:29,038 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.26. Pozisyon: BTCUSDT=64230.9800(+0.64%), XRPUSDT=1.0762(+0.24%)\n2026-08-04 22:45:38,887 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.24. Pozisyon: BTCUSDT=64216.0100(+0.62%), XRPUSDT=1.0756(+0.19%)\n2026-08-04 22:49:48,715 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.24. Pozisyon: BTCUSDT=64200.0000(+0.59%), XRPUSDT=1.0758(+0.20%)\n2026-08-04 22:53:58,871 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.24. Pozisyon: BTCUSDT=64198.0000(+0.59%), XRPUSDT=1.0756(+0.19%)\n2026-08-04 22:58:07,362 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $103.26\n2026-08-04 22:58:11,512 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.26. Pozisyon: BTCUSDT=64264.4000(+0.69%), XRPUSDT=1.0761(+0.23%)\n2026-08-04 23:02:21,319 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.25. Pozisyon: BTCUSDT=64226.7600(+0.63%), XRPUSDT=1.0756(+0.19%)\n2026-08-04 23:06:31,475 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64271.9800(+0.71%), XRPUSDT=1.0764(+0.26%)\n2026-08-04 23:09:35,583 [INFO] [BTCUSDT] Trailing SL: 63439.35840 → 63445.80030 (peak=64411.98000, korunan kar=-0.59%)\n2026-08-04 23:10:41,413 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.33. Pozisyon: BTCUSDT=64409.3600(+0.92%), XRPUSDT=1.0778(+0.39%)\n2026-08-04 23:13:45,766 [INFO] [BTCUSDT] Trailing SL: 63445.80030 → 63462.86050 (peak=64429.30000, korunan kar=-0.56%)\n2026-08-04 23:14:51,527 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.34. Pozisyon: BTCUSDT=64426.0000(+0.95%), XRPUSDT=1.0783(+0.44%)\n2026-08-04 23:15:51,676 [INFO] [BTCUSDT] Trailing SL: 63462.86050 → 63506.89000 (peak=64474.00000, korunan kar=-0.49%)\n2026-08-04 23:17:55,624 [INFO] [BTCUSDT] Trailing SL: 63506.89000 → 63534.80490 (peak=64502.34000, korunan kar=-0.45%)\n2026-08-04 23:19:01,402 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.36. Pozisyon: BTCUSDT=64488.7600(+1.05%), XRPUSDT=1.0783(+0.44%)\n2026-08-04 23:23:11,398 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.33. Pozisyon: BTCUSDT=64433.6300(+0.96%), XRPUSDT=1.0775(+0.36%)\n2026-08-04 23:27:21,415 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.27. Pozisyon: BTCUSDT=64277.0700(+0.71%), XRPUSDT=1.0762(+0.24%)\n2026-08-04 23:31:31,295 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.21. Pozisyon: BTCUSDT=64180.0000(+0.56%), XRPUSDT=1.0743(+0.07%)\n2026-08-04 23:35:41,699 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.21. Pozisyon: BTCUSDT=64194.0000(+0.58%), XRPUSDT=1.0741(+0.05%)\n2026-08-04 23:39:51,561 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.21. Pozisyon: BTCUSDT=64168.0000(+0.54%), XRPUSDT=1.0742(+0.06%)\n2026-08-04 23:44:01,493 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.24. Pozisyon: BTCUSDT=64238.5600(+0.65%), XRPUSDT=1.0754(+0.17%)\n2026-08-04 23:48:11,631 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.23. Pozisyon: BTCUSDT=64204.0100(+0.60%), XRPUSDT=1.0748(+0.11%)\n2026-08-04 23:52:21,524 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.20. Pozisyon: BTCUSDT=64139.2300(+0.50%), XRPUSDT=1.0745(+0.08%)\n2026-08-04 23:56:31,398 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.19. Pozisyon: BTCUSDT=64110.9500(+0.45%), XRPUSDT=1.0741(+0.05%)\n2026-08-04 23:58:35,956 [INFO] [RECONCILE] OK — pozisyon 2/2, portföy $103.19\n"
+}
