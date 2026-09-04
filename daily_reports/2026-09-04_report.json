@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T00:00:02.345466Z",
+  "summary": {
+    "total_trades_alltime": 22,
+    "win_rate_alltime_pct": 31.8,
+    "recent_24h_trades": 0,
+    "open_positions": 0,
+    "equity": {
+      "starting_capital": 100.0,
+      "realized_pnl": 1.3147,
+      "capital_after_realized": 101.3147,
+      "closed_trade_count": 22
+    }
+  },
+  "positions": {},
+  "bot_state": {
+    "consecutive_losses": 0,
+    "consecutive_wins": 1,
+    "last_loss_ts": 1786331712.8908975,
+    "day_start_portfolio_usd": 103.32277108839999,
+    "current_day": "2026-09-03",
+    "daily_limit_warned_date": null,
+    "last_heartbeat_ts": 1788479816.3730206
+  },
+  "recent_trades": [],
+  "backtest_latest": {
+    "Konservatif (pos=%8)": {
+      "final_capital": 106.2099,
+      "total_return_pct": 6.21,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 17.63,
+      "profit_factor": 1.15,
+      "sharpe": 0.53,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Standart (pos=%12)": {
+      "final_capital": 109.1685,
+      "total_return_pct": 9.17,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 25.6,
+      "profit_factor": 1.15,
+      "sharpe": 0.78,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    },
+    "Agresif (pos=%20)": {
+      "final_capital": 114.8279,
+      "total_return_pct": 14.83,
+      "total_trades": 268,
+      "long_trades": 112,
+      "short_trades": 156,
+      "win_rate": 30.2,
+      "max_drawdown_pct": 39.97,
+      "profit_factor": 1.14,
+      "sharpe": 1.3,
+      "avg_win_pct": 6.53,
+      "avg_loss_pct": -2.11,
+      "top_symbols": [
+        [
+          "ETHUSDT",
+          68
+        ],
+        [
+          "BTCUSDT",
+          60
+        ],
+        [
+          "BNBUSDT",
+          49
+        ],
+        [
+          "SOLUSDT",
+          46
+        ],
+        [
+          "XRPUSDT",
+          45
+        ]
+      ]
+    }
+  },
+  "log_tail": "2026-09-03 20:49:34,277 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 20:53:42,583 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 20:57:50,186 [INFO] [RECONCILE] OK — pozisyon 0/0, portföy $103.43\n2026-09-03 20:57:53,527 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:02:02,163 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:06:10,563 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:10:18,902 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:14:27,258 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:18:35,757 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:22:45,365 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:26:55,738 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:31:05,320 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.44. Pozisyon: yok\n2026-09-03 21:35:15,956 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.44. Pozisyon: yok\n2026-09-03 21:39:25,309 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:43:35,033 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:47:45,819 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:51:55,542 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:56:05,802 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 21:58:10,551 [INFO] [RECONCILE] OK — pozisyon 0/0, portföy $103.43\n2026-09-03 22:00:19,642 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 22:04:30,147 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 22:08:40,786 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 22:12:50,324 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:16:59,876 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.43. Pozisyon: yok\n2026-09-03 22:21:09,294 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:25:19,052 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:29:28,498 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:33:38,529 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.41. Pozisyon: yok\n2026-09-03 22:37:48,481 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:41:58,334 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:46:08,683 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:50:18,021 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:54:27,757 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 22:58:36,733 [INFO] [RECONCILE] OK — pozisyon 0/0, portföy $103.42\n2026-09-03 22:58:41,335 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:02:51,424 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:07:01,775 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:11:11,223 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:15:21,278 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:19:30,868 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:23:40,541 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:27:50,175 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:32:00,241 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:36:10,210 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:40:20,386 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:44:29,658 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:48:39,302 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:52:48,598 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:56:58,522 [INFO] [HEARTBEAT] Bot aktif. Portföy $103.42. Pozisyon: yok\n2026-09-03 23:59:03,767 [INFO] [RECONCILE] OK — pozisyon 0/0, portföy $103.42\n"
+}
